@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there is the homepage of a student who is always studying.👋
 
 <!--
 **lidealist/lidealist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
